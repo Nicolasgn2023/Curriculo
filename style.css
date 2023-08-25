@@ -1,0 +1,77 @@
+
+
+
+.h1{
+    color: white;
+    text-align:center ;
+    padding:30px;
+    opacity: 100%;
+
+}
+
+#hover{
+    transition-timing-function:ease;
+    transition-duration: 0.5s;
+
+}
+#hover:hover{width:235px ; height: 235px;}
+
+
+
+
+
+
+#font{
+    transition-timing-function: ease-in-out;
+    transition-duration: 5ms;
+    
+}
+
+
+#font:hover{font-size:large;}
+
+
+
+
+
+
+
+
+.caixa{border-radius: 2%;
+background-color: white;
+margin:10px 30px 10px ;
+
+
+
+}
+
+.header{
+    overflow: hidden;
+    background-color: black ;
+    
+   
+   
+
+
+
+
+  
+}
+
+li{
+text-align: left;
+margin-bottom: 10px;
+}
+
+
+body{
+    background-image: url(bg.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+  backdrop-filter:blur(6px) ;
+   
+   
+}
+
+a:link{color: black;}
+a:visited{color: black;}
